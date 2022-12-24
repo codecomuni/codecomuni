@@ -1,8 +1,7 @@
 # *_COMMUNITY TRACKING_*
 
 ```
-int main()
-{
-return "something good";
+int main(){
+	return "something good";
 }
 ```
